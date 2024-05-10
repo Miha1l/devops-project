@@ -28,4 +28,4 @@ services:
     deploy:
       resources:
         limits:
-          pids: 12 # При значении 6 не запускаются тесты
+          pids: 12
