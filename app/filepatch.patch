@@ -1,0 +1,6 @@
+78c78
+<     app.run(debug = True)
+\ No newline at end of file
+---
+>     app.run(debug=True, host='0.0.0.0')
+\ No newline at end of file
